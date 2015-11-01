@@ -44,7 +44,7 @@ Custom refresh control in Object-C for iOS.
 
 ## Screenshot
 
-![](https://github.com/mconintet/MOIRefreshControl/blob/master/screenshot.gif)
+![](https://raw.githubusercontent.com/mconintet/MOIRefreshControl/master/screenshot.gif)
 
 ## Installation
 
